@@ -1,8 +1,12 @@
 body {
-      background-color: #ADFFDC; 
-      color: #041F39; 
-      font-family: bahnschrift, helvetica, sans-serif; 
-      /* potentially look for more fonts in case bahnschrift isn't avaliable */
-      padding:10px; 
-      line-height:1.4em
-      }
+    background-color: #ADFFDC;
+    color: #041F39;
+    font-family: bahnschrift, helvetica, sans-serif;
+    /* potentially look for more fonts in case bahnschrift isn't avaliable */
+    padding: 10px;
+    line-height: 1.4em
+
+}
+img {
+    border: 10px solid #191970;
+}
